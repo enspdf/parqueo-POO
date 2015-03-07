@@ -1,0 +1,9 @@
+C:\Users\Sebastian-pc\Documents\visual studio\Parqueadero\Parqueadero\bin\Debug\Parqueadero.exe.config
+C:\Users\Sebastian-pc\Documents\visual studio\Parqueadero\Parqueadero\bin\Debug\Parqueadero.exe
+C:\Users\Sebastian-pc\Documents\visual studio\Parqueadero\Parqueadero\bin\Debug\Parqueadero.pdb
+C:\Users\Sebastian-pc\Documents\visual studio\Parqueadero\Parqueadero\obj\Debug\Parqueadero.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian-pc\Documents\visual studio\Parqueadero\Parqueadero\obj\Debug\Parqueadero.Form1.resources
+C:\Users\Sebastian-pc\Documents\visual studio\Parqueadero\Parqueadero\obj\Debug\Parqueadero.Properties.Resources.resources
+C:\Users\Sebastian-pc\Documents\visual studio\Parqueadero\Parqueadero\obj\Debug\Parqueadero.csproj.GenerateResource.Cache
+C:\Users\Sebastian-pc\Documents\visual studio\Parqueadero\Parqueadero\obj\Debug\Parqueadero.exe
+C:\Users\Sebastian-pc\Documents\visual studio\Parqueadero\Parqueadero\obj\Debug\Parqueadero.pdb
