@@ -36,7 +36,7 @@ namespace Parqueadero
         private void btnFacturar_Click(object sender, EventArgs e)
         {
             ClPrq objetovehiculo = new ClPrq();
-            objetovehiculo.TipoVehiculo = cbTipo_vehiculo.SelectedText;
+            objetovehiculo.TipoVehiculo = cbTipo_vehiculo.Text;
             int Tarifa = objetovehiculo.TarifaVehiculo;
             TimeSpan PeriodoPagar = dtFecha_salida.Value - dtFecha_entrada.Value;
             Double NroHoras = PeriodoPagar.TotalHours;

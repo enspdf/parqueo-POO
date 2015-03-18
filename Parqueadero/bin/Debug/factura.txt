@@ -1,9 +1,9 @@
-Fecha de entrada: 07/03/2015 11:15:54
+Fecha de entrada: 18/03/2015 14:03:36
 Tipo de vehiculo: 
 Nombre: 
 Indetificación: 
 Placa: 
-Fecha salida: 07/03/2015 02:15:54
-Numero de horas: 2,99975030191667
+Fecha salida: 18/03/2015 02:03:36
+Numero de horas: -1,30214722222222E-05
 Tarifa: 2500
-Total a pagar: 7499,37575479167
+Total a pagar: -0,0325536805555556
